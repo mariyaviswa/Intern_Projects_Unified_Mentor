@@ -40,7 +40,7 @@ The program consisted of two major projects, each focusing on different aspects 
   </tr>
 </table>
 
-<h4>1. Foreign Direct Investment Analysis</h4>
+<h3>1. Foreign Direct Investment Analysis</h3>
 <p align = "justify">
  This project involved a detailed analysis of global FDI data to 
 reveal patterns and trends in international investment flows. I cleaned and preprocessed the data, 
@@ -49,9 +49,20 @@ sector-based preferences—that impact foreign investments in different countrie
 visualization, I presented insights into how FDI trends evolve and highlighted strategic 
 opportunities for targeted growth. This project deepened my understanding of economic data 
 analysis and helped me strengthen my skills in extracting actionable insights from large datasets.
-</p>
+<br>
+<br>
+<br>
+ 
+ <img src="https://github.com/mariyaviswa/Intern_Projects_Unified_Mentor/blob/main/FDI%20(1).png?raw=true" alt="Total Investment In All Industries">
+<br>
+<br>
+<br>
+<img src="https://github.com/mariyaviswa/Intern_Projects_Unified_Mentor/blob/main/FDI%20(2).png?raw=true" alt="Top 10 Sectors">
 
-<h4>2. FIFA World Cup Analysis</h4>
+</p>
+<br>
+
+<h3>2. FIFA World Cup Analysis</h3>
 <p align = "justify">
  For this project, I analyzed historical data from FIFA World Cups to 
 identify performance trends and success factors among teams. I explored various game statistics, 
@@ -60,4 +71,14 @@ competitive football. To present findings effectively, I created a dashboard in 
 allowed for interactive exploration of key metrics and made insights easily accessible. This 
 experience helped me understand the value of visualization tools like Tableau in simplifying 
 complex data and displaying it in a way that highlights meaningful trends.
+<br>
+<br>
+<br>
+ 
+ <img src="https://github.com/mariyaviswa/Intern_Projects_Unified_Mentor/blob/main/FIFA%20(1).png?raw=true" alt="Goals Scored Per Year">
+<br>
+<br>
+<br>
+<img src="https://github.com/mariyaviswa/Intern_Projects_Unified_Mentor/blob/main/FIFA%20(2).png?raw=true" alt="Each Country's Winning Counts">
+
 </p>
