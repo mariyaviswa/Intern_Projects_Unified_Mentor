@@ -17,7 +17,7 @@ The program consisted of two major projects, each focusing on different aspects 
   <tr>
     <td>1</td>
     <td>Foreign Direct Investment Analysis (FDI)</td>
-    <td><a href=""D:\Internship\Foriegn_Direct_Investment.ipynb"" download>File</a></td>
+    <td><a href="https://github.com/mariyaviswa/Intern_Projects_Unified_Mentor/blob/main/Foriegn_Direct_Investment.ipynb" download>File</a></td>
     <td><a href=""D:\Internship\FDI data.csv"" download>Dataset</a></td>
   </tr>
   <tr>
