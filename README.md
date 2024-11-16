@@ -1,8 +1,20 @@
 <h1>Description</h1>
 
+<p align = "justify">
 The 1-month virtual internship at Unified Mentor offered a comprehensive learning experience in data 
 analysis and data science, providing hands-on projects to reinforce essential technical skills. I 
 discovered and enrolled in this opportunity online, which included structured learning modules and real-world projects for practical experience. 
+</p> 
+<p align = "justify">
+During my internship at Unified Mentor, I worked on analyzing complex datasets for Foreign Direct 
+Investment and FIFA World Cup tournaments, allowing me to gain hands-on experience in data analysis 
+and visualization. I learned to identify key trends and patterns by working with large datasets, and extracting 
+insights that highlight important economic factors and performance indicators. This experience 
+enhanced my ability to clean and preprocess data, apply statistical techniques, and present findings 
+effectively. Through these projects, I also improved my understanding of how data-driven insights can 
+support strategic decision-making and convey meaningful stories about global investment and sports 
+performance.
+</p> 
 
 The program consisted of two major projects, each focusing on different aspects of data science and Analytics:
  
@@ -27,3 +39,25 @@ The program consisted of two major projects, each focusing on different aspects 
     <td><a href="https://github.com/mariyaviswa/Intern_Projects_Unified_Mentor/blob/main/FIFA_Worldcup_Data.zip" download>Dataset</a></td>
   </tr>
 </table>
+
+<h4>1. Foreign Direct Investment Analysis</h4>
+<p align = "justify">
+ This project involved a detailed analysis of global FDI data to 
+reveal patterns and trends in international investment flows. I cleaned and preprocessed the data, 
+and conducted a thorough analysis to identify influential factors—such as economic indicators and 
+sector-based preferences—that impact foreign investments in different countries. Through data 
+visualization, I presented insights into how FDI trends evolve and highlighted strategic 
+opportunities for targeted growth. This project deepened my understanding of economic data 
+analysis and helped me strengthen my skills in extracting actionable insights from large datasets.
+</p>
+
+<h4>2. FIFA World Cup Analysis</h4>
+<p align = "justify">
+ For this project, I analyzed historical data from FIFA World Cups to 
+identify performance trends and success factors among teams. I explored various game statistics, 
+scoring patterns, and defensive strategies to uncover what contributes to winning outcomes in 
+competitive football. To present findings effectively, I created a dashboard in Tableau, which 
+allowed for interactive exploration of key metrics and made insights easily accessible. This 
+experience helped me understand the value of visualization tools like Tableau in simplifying 
+complex data and displaying it in a way that highlights meaningful trends.
+</p>
