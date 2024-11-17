@@ -25,18 +25,21 @@ The program consisted of two major projects, each focusing on different aspects 
     <th>Projects</th>
     <th>Files</th>
     <th>Datasets</th>
+    <th>Colab</th>
   </tr>
   <tr>
     <td>1</td>
     <td>Foreign Direct Investment Analysis (FDI)</td>
     <td><a href="https://github.com/mariyaviswa/Intern_Projects_Unified_Mentor/blob/main/Foriegn_Direct_Investment.ipynb" download>File</a></td>
     <td><a href="https://github.com/mariyaviswa/Intern_Projects_Unified_Mentor/blob/main/FDI%20data.csv" download>Dataset</a></td>
+    <td><a href="https://colab.research.google.com/drive/17s2PV1pbZ_eJ-YzyUqnUWsgN8jmSKWnu?usp=sharing">click here</a></td>
   </tr>
   <tr>
     <td>2</td>
     <td>FIFA World Cup Analysis</td>
     <td><a href="https://github.com/mariyaviswa/Intern_Projects_Unified_Mentor/blob/main/FIFA_WORLD_CUP.ipynb" download>File</a></td>
     <td><a href="https://github.com/mariyaviswa/Intern_Projects_Unified_Mentor/blob/main/FIFA_Worldcup_Data.zip" download>Dataset</a></td>
+    <td><a href="https://colab.research.google.com/drive/1u_PaD8ouLZ3M70hMq9_hxvl1Uqq7uJVf?usp=sharing">click here</a></td>
   </tr>
 </table>
 
