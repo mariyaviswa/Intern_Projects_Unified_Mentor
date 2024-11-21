@@ -74,6 +74,8 @@ competitive football. To present findings effectively, I created a dashboard in 
 allowed for interactive exploration of key metrics and made insights easily accessible. This 
 experience helped me understand the value of visualization tools like Tableau in simplifying 
 complex data and displaying it in a way that highlights meaningful trends.
+
+<b>Tableau DashBoard Public Link</b> - <a href="https://public.tableau.com/app/profile/mariya.viswa/viz/FIFA_World_Cup_Analysis/WorldCup?publish=yes" target="_blank">Click Here</a>
 <br>
 <br>
 <br>
@@ -83,5 +85,9 @@ complex data and displaying it in a way that highlights meaningful trends.
 <br>
 <br>
 <img src="https://github.com/mariyaviswa/Intern_Projects_Unified_Mentor/blob/main/FIFA%20(2).png?raw=true" alt="Each Country's Winning Counts">
+<br>
+<br>
+<br>
+<img src="https://github.com/mariyaviswa/Intern_Projects_Unified_Mentor/blob/main/FIFA_tableau.png?raw=true" alt="Tableau DashBoard">
 
 </p>
