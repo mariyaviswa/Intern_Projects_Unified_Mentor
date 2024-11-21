@@ -22,9 +22,9 @@ The program consisted of two major projects, each focusing on different aspects 
 <table>
   <tr>
     <th>S.No</th>
-    <th>Projects</th>
-    <th>Files</th>
-    <th>Datasets</th>
+    <th>Project</th>
+    <th>File</th>
+    <th>Dataset</th>
     <th>Colab</th>
   </tr>
   <tr>
