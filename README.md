@@ -12,7 +12,7 @@ and visualization. I learned to identify key trends and patterns by working with
 insights that highlight important economic factors and performance indicators. This experience 
 enhanced my ability to clean and preprocess data, apply statistical techniques, and present findings 
 effectively. Through these projects, I also improved my understanding of how data-driven insights can 
-support strategic decision-making and convey meaningful stories about global investment and sports 
+support strategic decision-making and convey meaningful stories about global investment and sports  
 performance.
 </p> 
 
